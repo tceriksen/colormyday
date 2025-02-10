@@ -1,0 +1,19 @@
+body {
+    margin: 10% auto;
+    width: 50%;
+}
+
+#container {
+    background-color: #f0ebdd;
+    padding: 5%;
+    color: #444;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#note {
+    font-size: 12px;
+}
