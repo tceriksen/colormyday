@@ -1,7 +1,7 @@
 switch (new Date().getDay()) {
     case 0:
       day = "Sunday";
-      document.body.style.backgroundColor = "orange";
+      document.body.style.backgroundColor = "rgb(255, 87, 51)";
       break;
     case 1:
       day = "Monday";
